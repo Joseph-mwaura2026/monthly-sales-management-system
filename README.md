@@ -147,4 +147,4 @@ The same `get_number()` function validates both numbers. Target must be greater 
 
 ## Author
 
-Joe, IT and cybersecurity learner and retail supervisor, building practical projects from real business problems.
+Joseph Mwaura, IT and cybersecurity learner and retail supervisor, building practical projects from real business problems.
